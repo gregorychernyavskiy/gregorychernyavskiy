@@ -8,10 +8,11 @@ Hi! My name is Gregory Chernyavskiy ![](https://user-images.githubusercontent.co
 - Experienced in **building scalable systems** and **automating workflows**.  
 - Notable projects include a **real-time cryptocurrency bot** and **solar car diagnostics system**.
 
-* 🌍  I'm based in Chicago, Illinois
-* ✉️  You can contact me at [gregory.chernyavskiy@gmail.com](mailto:gregory.chernyavskiy@gmail.com)
+---
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/452895322071367700" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/gregorychernyavskiy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### **Let's Connect!**
+- **Location:** Chicago, IL  
+- **Portfolio:** [gregorychernyavskiy.com](https://gregorychernyavskiy.com)  
+- **GitHub:** [gregorychernyavskiy](https://github.com/gregorychernyavskiy)  
+- **LinkedIn:** [linkedin.com/in/gregory-chernyavskiy](https://linkedin.com/in/gregory-chernyavskiy)  
+- **Email:** gregory.chernyavskiy@gmail.com
