@@ -13,6 +13,5 @@ Hi! My name is Gregory Chernyavskiy ![](https://user-images.githubusercontent.co
 ### **Let's Connect!**
 - **Location:** Chicago, IL  
 - **Portfolio:** [gregorychernyavskiy.com](https://gregorychernyavskiy.com)  
-- **GitHub:** [gregorychernyavskiy](https://github.com/gregorychernyavskiy)  
 - **LinkedIn:** [linkedin.com/in/gregory-chernyavskiy](https://linkedin.com/in/gregory-chernyavskiy)  
 - **Email:** gregory.chernyavskiy@gmail.com
