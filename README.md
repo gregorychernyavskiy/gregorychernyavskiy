@@ -11,7 +11,6 @@
 
 ### **Let’s Connect!**  
 📍 **Location:** Chicago, IL  
-🌐 **Portfolio:** [gregorychernyavskiy.com](https://gregorychernyavskiy.com)  
-💻 **GitHub:** [gregorychernyavskiy](https://github.com/gregorychernyavskiy)  
+🌐 **Portfolio:** [gregorychernyavskiy.com](https://gregorychernyavskiy.com) 
 👔 **LinkedIn:** [linkedin.com/in/gregory-chernyavskiy](https://linkedin.com/in/gregory-chernyavskiy)  
 ✉️ **Email:** gregory.chernyavskiy@gmail.com  
