@@ -46,11 +46,11 @@
 
 ## 📫 Let's Connect!
 <p align="left">
-  📍 <b>Location:</b> Chicago, IL  
-  🌎 <b>Portfolio:</b> gregorychernyavskiy.com  
-  💼 <b>LinkedIn:</b> linkedin.com/in/gregory-chernyavskiy  
-  📧 <b>Email:</b> gregory.chernyavskiy@gmail.com  
-  🏆 <b>GitHub:</b> github.com/gregorychernyavskiy  
+  <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square" alt="Portfolio">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/📧 Email-gregory.chernyavskiy@gmail.com-blue?style=flat-square" alt="Email">
+  <img src="https://img.shields.io/badge/🏆 GitHub-github.com/gregorychernyavskiy-black?style=flat-square" alt="GitHub">
 </p>
 
 ---
