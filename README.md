@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 **Computer Science, Mathematics & Statistics student** at **UW-Madison**
 - ⚡ Passionate about **quantitative development, high-performance computing, and cloud automation**
-- 🖥️ Currently refining **code interpretability** at **SwAPP Lab**
+- 🖥️ Currently working on **Dungeon Monsters**
 - ☁️ Experience with **DevOps workflows, scalable systems, and automation**
 - 🔥 Notable projects: **convertfile.me**, **CyLife**, and **Cherzy Crypto Bot**
 - 💡 Open to discussing anything related to **quant, software engineering, and AI!**
