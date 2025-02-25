@@ -1,12 +1,12 @@
 ## **Hi, I'm Gregory Chernyavskiy 👋**
 
 ## 🚀 About Me
-- 🎓 **Computer Science, Mathematics & Statistics student** at **UW-Madison**
-- ⚡ Passionate about **quantitative development, high-performance computing, and cloud automation**
+- 🎓 **Third-year Computer Science & Applied AI student** at Iowa State University. 
+- ⚡ Passionate about **full-stack development, cloud computing, and deep learning**.  
 - 🖥️ Currently working on **Dungeon Monsters**
-- ☁️ Experience with **DevOps workflows, scalable systems, and automation**
-- 🔥 Notable projects: **convertfile.me**, **CyLife**, and **Cherzy Crypto Bot**
-- 💡 Open to discussing anything related to **quant, software engineering, and AI!**
+- ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.  
+- 🔥 Experienced in **building scalable systems** and **automating workflows**.  
+- 💡 Notable projects include a **real-time cryptocurrency bot** and a **solar car diagnostics system**.
 
 ---
 
