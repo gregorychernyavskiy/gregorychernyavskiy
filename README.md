@@ -1,8 +1,4 @@
-<h1 align="center">Hey, I'm Gregory Chernyavskiy 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-</p>
+## **Hi, I'm Gregory Chernyavskiy 👋**
 
 ## 🚀 About Me
 - 🎓 **Computer Science, Mathematics & Statistics student** at **UW-Madison**
@@ -46,13 +42,19 @@
 
 ## 📫 Let's Connect!
 <p align="left">
-  <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square" alt="Portfolio">
-  <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/📧 Email-gregory.chernyavskiy@gmail.com-blue?style=flat-square" alt="Email">
-  <img src="https://img.shields.io/badge/🏆 GitHub-github.com/gregorychernyavskiy-black?style=flat-square" alt="GitHub">
+  <a href="https://www.google.com/maps/place/Chicago,+IL" target="_blank">
+    <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square">
+  </a>
+  <a href="https://gregorychernyavskiy.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square">
+  </a>
+  <a href="mailto:gregory.chernyavskiy@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-gregory.chernyavskiy@gmail.com-blue?style=flat-square">
+  </a>
+  <a href="https://github.com/gregorychernyavskiy" target="_blank">
+    <img src="https://img.shields.io/badge/🏆 GitHub-github.com/gregorychernyavskiy-black?style=flat-square">
+  </a>
 </p>
-
----
-
-⭐ **Fun Fact:** I love exploring **quantitative finance, high-performance computing, and scalable infrastructure** 🚀.
