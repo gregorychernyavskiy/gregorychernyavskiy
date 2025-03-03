@@ -48,10 +48,4 @@
   <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square">
   </a>
-  <a href="mailto:gregory.chernyavskiy@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-gregory.chernyavskiy@gmail.com-blue?style=flat-square">
-  </a>
-  <a href="https://github.com/gregorychernyavskiy" target="_blank">
-    <img src="https://img.shields.io/badge/🏆 GitHub-github.com/gregorychernyavskiy-black?style=flat-square">
-  </a>
 </p>
