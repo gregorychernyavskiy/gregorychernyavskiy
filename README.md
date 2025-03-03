@@ -6,7 +6,7 @@
 - 🖥️ Currently working on **Dungeon Monsters**
 - ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.  
 - 🔥 Experienced in **building scalable systems** and **automating workflows**.  
-- 💡 Notable projects include a **real-time cryptocurrency bot** and a **solar car diagnostics system**.
+- 💡 Notable projects include a **real-time cryptocurrency bot** and a **CyLife Android Application**.
 
 ---
 
