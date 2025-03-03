@@ -38,8 +38,6 @@
 </p>
 
 ---
-
-## 📫 Let's Connect!
 <p align="left">
   <a href="https://www.google.com/maps/place/Chicago,+IL" target="_blank">
     <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square">
