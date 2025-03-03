@@ -4,8 +4,7 @@
 - 🎓 **Third-year Computer Science & Applied AI student** at Iowa State University. 
 - ⚡ Passionate about **full-stack development, cloud computing, and deep learning**.  
 - 🖥️ Currently working on **Dungeon Monsters**
-- ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.  
-- 🔥 Experienced in **building scalable systems** and **automating workflows**.  
+- ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.
 - 💡 Notable projects include a **real-time cryptocurrency bot** and a **CyLife Android Application**.
 
 ---
