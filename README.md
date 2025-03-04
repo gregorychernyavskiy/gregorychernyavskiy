@@ -5,7 +5,7 @@
 - ⚡ Passionate about **full-stack development, cloud computing, and deep learning**.  
 - 🖥️ Currently working on **Dungeon Monsters**
 - ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.
-- 💡 Notable projects include a **real-time cryptocurrency bot** and a **CyLife Android Application**.
+- 💡 Notable projects include a **convertfile.me**, **Dungeon Monsters** and a **CyLife Android Application**.
 
 ---
 <p align="left">
