@@ -27,15 +27,6 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
-### **Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Machine Learning-FF6F00?style=flat-square">
-  <img src="https://img.shields.io/badge/-Distributed Systems-007396?style=flat-square">
-  <img src="https://img.shields.io/badge/-RESTful APIs-4CAF50?style=flat-square">
-  <img src="https://img.shields.io/badge/-CI/CD-808080?style=flat-square">
-  <img src="https://img.shields.io/badge/-Data Visualization-FFD700?style=flat-square">
-</p>
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&layout=compact)
