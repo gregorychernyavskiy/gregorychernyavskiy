@@ -8,6 +8,17 @@
 - 💡 Notable projects include a **real-time cryptocurrency bot** and a **CyLife Android Application**.
 
 ---
+<p align="left">
+  <a href="https://www.google.com/maps/place/Chicago,+IL" target="_blank">
+    <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square">
+  </a>
+  <a href="https://gregorychernyavskiy.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square">
+  </a>
+</p>
 
 ### **Languages**
 <p align="left">
@@ -35,14 +46,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&layout=compact)
 
 ---
-<p align="left">
-  <a href="https://www.google.com/maps/place/Chicago,+IL" target="_blank">
-    <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square">
-  </a>
-  <a href="https://gregorychernyavskiy.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square">
-  </a>
-  <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square">
-  </a>
-</p>
