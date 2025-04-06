@@ -2,10 +2,9 @@
 
 ## 🚀 About Me
 - 🎓 **Third-year Computer Science & Applied AI student** at Iowa State University. 
-- ⚡ Passionate about **full-stack development, cloud computing, and deep learning**.  
-- 🖥️ Currently working on **Dungeon Monsters**
-- ☁️ Improved **DevOps workflows** during a **research internship at DePaul’s DICE Lab**.
-- 💡 Notable projects include a **convertfile.me**, **Dungeon Monsters** and a **CyLife Android Application**.
+- ⚡ Passionate about **full-stack development and cloud computing.  
+- 🖥️ Incoming Software Engineering Intern @ **Marshalltown**.
+- 💡 Currently working on **convertfile.me**
 
 ---
 <p align="left">
