@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/📍 Location-Chicago, IL-lightgrey?style=flat-square">
   </a>
   <a href="https://gregorychernyavskiy.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌎 Portfolio-gregorychernyavskiy.com-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/🌎 Portfolio-www.gregorychernyavskiy.com-blue?style=flat-square">
   </a>
   <a href="https://www.linkedin.com/in/gregory-chernyavskiy" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-linkedin.com/in/gregory--chernyavskiy-blue?style=flat-square">
