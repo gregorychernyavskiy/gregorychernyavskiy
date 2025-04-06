@@ -4,7 +4,7 @@
 - 🎓 **Third-year Computer Science & Applied AI student** at Iowa State University. 
 - ⚡ Passionate about **full-stack development and cloud computing.  
 - 🖥️ Incoming Software Engineering Intern @ **Marshalltown**.
-- <a href="https://convertfile.me" target="_blank">💡 Currently working on convertfile.me</a>
+- <a href="https://convertfile.me" target="_blank">convertfile.me</a>
 
 ---
 <p align="left">
