@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Third-year **Computer Science & Applied AI** student @ **Iowa State University**. 
 - ⚡ Passionate about **full-stack development** and **cloud computing**.  
-- 🖥️ Incoming Software Engineering Intern @ **Marshalltown**.
+- 🖥️ Incoming Fullstack Software Engineering Intern @ **Marshalltown**.
 - 💡 Currently working on <a href="https://www.convertfile.me/" target="_blank">convertfile.me</a>
 
 ---
