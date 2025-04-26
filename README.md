@@ -1,6 +1,4 @@
 ## **Hi, I'm Gregory Chernyavskiy 👋**
-
-## 🚀 About Me
 - 🎓 Third-year **Computer Science & Applied AI** student @ **Iowa State University**. 
 - ⚡ Passionate about **full-stack development** and **cloud computing**.  
 - 🖥️ Incoming Fullstack Software Engineering Intern @ **Marshalltown**.
