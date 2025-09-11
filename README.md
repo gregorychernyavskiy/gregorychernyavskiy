@@ -1,7 +1,7 @@
 ## **Hi, I'm Gregory Chernyavskiy 👋**
 - 🎓 Fourth-year **Computer Science** student @ **Iowa State University**. 
 - ⚡ Passionate about **full-stack development** and **cloud computing**.  
-- 🖥️ Fullstack Software Engineering Intern @ **Marshalltown**.
+- 🖥️ Fullstack Software Engineer Intern @ **Marshalltown**.
 - 💡 Currently working on <a href="https://www.convertfile.me/" target="_blank">convertfile.me</a>
 
 ---
