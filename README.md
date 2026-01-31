@@ -6,4 +6,4 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&theme=great-gatsby&show_icons=true&cache_seconds=1800&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&layout=compact&theme=great-gatsby&langs_count=8&cache_seconds=1800)
