@@ -5,4 +5,5 @@
 - 💡 Currently working on <a href="https://www.convertfile.me/" target="_blank">convertfile.me</a>
 
 ---
-![gregorychernyavskiy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&theme=great-gatsby&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorychernyavskiy&theme=great-gatsby&show_icons=true&cache_seconds=1800&v=2)
