@@ -1,8 +1,4 @@
-## Hi, I'm Gregory Chernyavskiy <img src="https://media.tenor.com/aKEeVDmHsJwAAAAM/abobblewobble-yellow.gif" width="26" style="vertical-align: middle; margin-left: 6px;" />
+💼 Software Developer @ **IBM**  
 
-🎓 Computer Science senior @ **Iowa State University**  
-🎓 Incoming M.S. in Artificial Intelligence @ **Georgia Institute of Technology** (Aug 2026)  
-
-💼 Incoming Software Developer @ **IBM** (Aug 2026)  
-💼 Incoming Software Engineer Intern @ **Buildertrend** (SaaS / Fintech)  
-💼 Prev. Software Engineer Intern @ **MARSHALLTOWN** (Packing System)  
+🎓 Computer Science @ **Iowa State University**  
+🎓 M.S. in CS @ **Georgia Institute of Technology** (Aug 2026)  
